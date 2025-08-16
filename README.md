@@ -40,7 +40,7 @@ This is the first assignment for Data Analytics 1 at IIIT-H (Monsoon 2025)
 │   ├── bharath
 │   │   ├── q1.ipynb
 │   │   └── q2.ipynb
-│   ├── bramha
+│   ├── brahma
 │   │   ├── q1.ipynb
 │   │   └── q2.ipynb
 │   └── final
